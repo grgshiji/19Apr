@@ -1,0 +1,16 @@
+{
+  "name": "19Apr",
+  "type": "package",
+  "blockId": "mr_aO6bSo7D5vUPR_RJdj",
+  "source": {
+    "https": "https://github.com/grgshiji/19Apr.git",
+    "ssh": "git@github.com:grgshiji/19Apr.git",
+    "branch": "block_19Apr"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
