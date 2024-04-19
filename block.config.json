@@ -1,0 +1,16 @@
+{
+  "name": "19Apr",
+  "type": "package",
+  "blockId": "mr_aO6bSo7D5vUPR_RJdj",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_19Apr"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
